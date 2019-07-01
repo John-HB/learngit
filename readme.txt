@@ -5,3 +5,4 @@ are the git is niubi?
 fang gou pi!
 create a new branch named dev is quick AND simple!
 I find myselt face is very shuai le immediately!
+China No1!
