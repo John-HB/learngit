@@ -3,4 +3,4 @@ Git is free software append GPL.
 git is a shabi.
 are the git is niubi?
 fang gou pi!
-create a new branch named dev is quick & simple!
+create a new branch named dev is quick AND simple!
